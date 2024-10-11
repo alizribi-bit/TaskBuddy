@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "514447200733",
+    "firebase_url": "https://task-buddy-bb1a9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "task-buddy-bb1a9",
+    "storage_bucket": "task-buddy-bb1a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514447200733:android:1c793918be33b1856a2634",
+        "android_client_info": {
+          "package_name": "com.example.taskbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEWH4W5_xAWon_5NuH_IqXRHOJ_sdE9ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514447200733:android:b78b6a101d119f786a2634",
+        "android_client_info": {
+          "package_name": "com.example.taskbudy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEWH4W5_xAWon_5NuH_IqXRHOJ_sdE9ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
